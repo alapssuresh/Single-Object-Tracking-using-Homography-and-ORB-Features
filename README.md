@@ -1,0 +1,1 @@
+A computer vision project implementing a single-object tracking (SOT) algorithm in Python using OpenCV. It detects ORB keypoints and computes descriptors across frames, matches features, estimates frame-to-frame homography, and applies perspective transformation to track a manually marked bounding box.
